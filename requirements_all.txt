@@ -1421,7 +1421,7 @@ py-canary==0.5.3
 py-cpuinfo==8.0.0
 
 # homeassistant.components.melissa
-py-melissa-climate==2.1.4
+py-melissa-climate==2.2.0
 
 # homeassistant.components.nightscout
 py-nightscout==1.2.2
